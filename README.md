@@ -1,2 +1,13 @@
-# nathaliavieira
-Projeto para influencer Nathalia Vieira @vlnathalia
+# Projeto Nathalia Vieira
+
+Códigos criados por
+[@eduardolecdt](https://instagram.com/eduardolecdt)
+
+Clone o repositório em seu computador usando
+```sh
+git clone https://github.com/eduardolecdt/nathaliavieira.git
+```
+
+Páginas do Projeto
+
+> [Index do Projeto](https://eduardolecdt.github.io/nathaliavieira/)
