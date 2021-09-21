@@ -1,13 +1,14 @@
-# Projeto Nathalia Vieira
+----------------------------------------------------------------------------
 
-Códigos criados por
-[@eduardolecdt](https://instagram.com/eduardolecdt)
+# Lecdt LTDA
 
-Clone o repositório em seu computador usando
-```sh
-git clone https://github.com/eduardolecdt/nathaliavieira.git
-```
+## Códigos criados por @eduardolecdt!
 
-Páginas do Projeto
+:computer: Tecnologia de alto nível
 
-> [Index do Projeto](https://eduardolecdt.github.io/nathaliavieira/)
+## Links úteis
+
+[![Resultado]](https://eduardolecdt.github.io/canvamagnetico)
+[![Designer]](https://instagram.com/eduardolecdt)
+
+----------------------------------------------------------------------------------
