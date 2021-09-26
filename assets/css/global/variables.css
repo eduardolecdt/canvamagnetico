@@ -6,9 +6,20 @@
 
   --cor-branco: #FFFFFF;
   --cor-preto: #000000;
+  --cor-cinza: #7F7E8B;
+  --cor-pele: #EFE9E9;
+  --cor-rosa: #FFC5EB;
+  --cor-vermelho: #FF5757;
+  --cor-vermelho-transparente: rgba(255, 87, 87, 0.3);
+  --cor-vermelho-escuro: #e44646;
+  --cor-verde: #5ACB69;
+  --cor-verde-transparente: rgb(90, 203, 105, 0.3);
+  --cor-verde-escuro: #34a543;
 
   /* Fontes */
 
-  --fonte: '';
+  --estilo: 'gatwich-bold';
+  --bold: 'mark-pro-bold';
+  --regular: 'mark-pro-regular';
 
 }
