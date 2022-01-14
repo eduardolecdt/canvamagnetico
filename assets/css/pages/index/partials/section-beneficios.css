@@ -54,6 +54,15 @@ section.beneficios img.principal {
   z-index: 2;
 }
 
+section.beneficios h2 {
+  font-family: var(--bold);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  color: var(--cor-vermelho);
+  letter-spacing: 10px;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
 section.beneficios .titulo {
   display: flex;
   flex-direction: column;
@@ -104,6 +113,9 @@ section.beneficios .titulo h3 img {
   }
   section.beneficios img.principal {
     max-width: 100%;
+  }
+  section.beneficios h2 {
+    font-size: clamp(1.1rem, 3vw, 1.3rem);
   }
   section.beneficios .titulo {
     max-width: 100%;

@@ -24,11 +24,27 @@ section.comprar h2 {
   max-width: 800px;
 }
 
+section.comprar p {
+  font-family: var(--bold);
+  font-size: clamp(1.1rem, 3vw, 1.3rem);
+  color: var(--cor-verde);
+  line-height: 1.5;
+  margin: 10px 0 15px 0;
+}
+
+section.comprar h5 {
+  font-family: var(--bold);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  color: var(--cor-vermelho);
+  line-height: 1.5;
+  text-decoration: line-through;
+}
+
 section.comprar h3 {
   font-family: var(--bold);
   font-size: clamp(3rem, 3vw, 4rem);
   color: var(--cor-verde);
-  padding: 40px 0 10px 0;
+  padding: 20px 0 10px 0;
 }
 
 section.comprar h4 {
